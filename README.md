@@ -31,10 +31,10 @@
 
 ```text
 .
-├── 📂 Lecture/             # 课堂授课讲义 (Prof. Liao)
-├── 📂 Exercise/          # 习题课课件及补充题讲解
-├── 📂 Homework/        # 作业参考答案与解析
-├── 📂 SupplementaryMaterials/   # 拓展阅读与自主查找资料指引
-├── 📂 ExamPreparation/          # 历年试题、模拟题及复习提纲
+├── 📂 Lecture/                   # 课堂授课讲义 (Prof. Liao)
+├── 📂 Exercise/                  # 习题课课件及补充题讲解
+├── 📂 Homework/                  # 作业参考答案与解析
+├── 📂 SupplementaryMaterials/    # 拓展阅读与自主查找资料指引
+├── 📂 ExamPreparation/           # 历年试题、模拟题及复习提纲
 ├── 📂 References/                # 推荐参考书目录及链接
-└── README.md                        # 本说明文件
+└── README.md                     # 本说明文件
